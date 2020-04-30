@@ -1,1 +1,5 @@
+title: Building's Theme Metadata Catalogue
+description: Initial version of the UCL Energy Institute Metadata Catalogue. Here you will find information about the data sets used by the Buildings Theme presented in both human and machine readable formats.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman

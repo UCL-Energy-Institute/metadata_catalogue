@@ -1,0 +1,197 @@
+
+<!-- 
+https://services.fsd.uta.fi/catalogue/FSD3318?lang=en&study_language=en
+Questions 1-5 from https://services.fsd.uta.fi/catalogue/FSD3318/DDI/FSD3318e.xml
+-->
+
+</var>
+<var ID="Q1" dcml="0" intrvl="discrete" name="Q1" files="FSD3318_file_1">
+<labl level="variable">[q1] In your opinion, how well has Finland managed its foreign policy over the past few years?</labl>
+<qstn>
+<preQTxt/>
+<qstnLit>In your opinion, how well has Finland managed its foreign policy over the past few years?</qstnLit>
+<postQTxt/>
+<ivuInstr/>
+</qstn>
+<valrng>
+<range min="1" max="5"/>
+</valrng>
+<sumStat type="vald">1034</sumStat>
+<sumStat type="min">1</sumStat>
+<sumStat type="max">5</sumStat>
+<sumStat type="mean">3.02</sumStat>
+<sumStat type="stdev">.856</sumStat>
+<catgry>
+<catValu>1</catValu>
+<labl level="category">Very poorly</labl>
+<catStat>35</catStat>
+</catgry>
+<catgry>
+<catValu>2</catValu>
+<labl level="category">Fairly poorly</labl>
+<catStat>176</catStat>
+</catgry>
+<catgry>
+<catValu>3</catValu>
+<labl level="category">Fairly well</labl>
+<catStat>640</catStat>
+</catgry>
+<catgry>
+<catValu>4</catValu>
+<labl level="category">Very well</labl>
+<catStat>97</catStat>
+</catgry>
+<catgry>
+<catValu>5</catValu>
+<labl level="category">Can't say</labl>
+<catStat>86</catStat>
+</catgry>
+</var>
+<var ID="Q2" dcml="0" intrvl="discrete" name="Q2" files="FSD3318_file_1">
+<labl level="variable">[q2] What is your opinion on the defence forces funding?</labl>
+<qstn>
+<preQTxt/>
+<qstnLit>What is your opinion on the defence forces funding?</qstnLit>
+<postQTxt/>
+<ivuInstr/>
+</qstn>
+<valrng>
+<range min="1" max="6"/>
+</valrng>
+<sumStat type="vald">1034</sumStat>
+<sumStat type="min">1</sumStat>
+<sumStat type="max">6</sumStat>
+<sumStat type="mean">3.56</sumStat>
+<sumStat type="stdev">1.122</sumStat>
+<catgry>
+<catValu>1</catValu>
+<labl level="category">Funding should be decreased significantly</labl>
+<catStat>41</catStat>
+</catgry>
+<catgry>
+<catValu>2</catValu>
+<labl level="category">Funding should be somewhat decreased</labl>
+<catStat>77</catStat>
+</catgry>
+<catgry>
+<catValu>3</catValu>
+<labl level="category">Funding should be kept at present level</labl>
+<catStat>426</catStat>
+</catgry>
+<catgry>
+<catValu>4</catValu>
+<labl level="category">Funding should be somewhat increased</labl>
+<catStat>326</catStat>
+</catgry>
+<catgry>
+<catValu>5</catValu>
+<labl level="category">Funding should be increased significantly</labl>
+<catStat>85</catStat>
+</catgry>
+<catgry>
+<catValu>6</catValu>
+<labl level="category">Can't say</labl>
+<catStat>79</catStat>
+</catgry>
+</var>
+<var ID="Q3" dcml="0" intrvl="discrete" name="Q3" files="FSD3318_file_1">
+<labl level="variable">[q3] If Finland were attacked, do you think the Finns should in all circumstances take up arms in defence of their country, even if the outcome seemed uncertain?</labl>
+<qstn>
+<preQTxt/>
+<qstnLit>If Finland were attacked, do you think the Finns should in all circumstances take up arms in defence of their country, even if the outcome seemed uncertain?</qstnLit>
+<postQTxt/>
+<ivuInstr/>
+</qstn>
+<valrng>
+<range min="1" max="3"/>
+</valrng>
+<sumStat type="vald">1034</sumStat>
+<sumStat type="min">1</sumStat>
+<sumStat type="max">3</sumStat>
+<sumStat type="mean">1.45</sumStat>
+<sumStat type="stdev">.701</sumStat>
+<catgry>
+<catValu>1</catValu>
+<labl level="category">Yes</labl>
+<catStat>691</catStat>
+</catgry>
+<catgry>
+<catValu>2</catValu>
+<labl level="category">No</labl>
+<catStat>217</catStat>
+</catgry>
+<catgry>
+<catValu>3</catValu>
+<labl level="category">Can't say</labl>
+<catStat>126</catStat>
+</catgry>
+</var>
+<var ID="Q4" dcml="0" intrvl="discrete" name="Q4" files="FSD3318_file_1">
+<labl level="variable">[q4] If Finland were attacked, would you be prepared to participate in different defence tasks according to your skills and abilities?</labl>
+<qstn>
+<preQTxt/>
+<qstnLit>If Finland were attacked, would you be prepared to participate in different defence tasks according to your skills and abilities?</qstnLit>
+<postQTxt/>
+<ivuInstr/>
+</qstn>
+<valrng>
+<range min="1" max="3"/>
+</valrng>
+<sumStat type="vald">1034</sumStat>
+<sumStat type="min">1</sumStat>
+<sumStat type="max">3</sumStat>
+<sumStat type="mean">1.23</sumStat>
+<sumStat type="stdev">.543</sumStat>
+<catgry>
+<catValu>1</catValu>
+<labl level="category">Yes</labl>
+<catStat>859</catStat>
+</catgry>
+<catgry>
+<catValu>2</catValu>
+<labl level="category">No</labl>
+<catStat>114</catStat>
+</catgry>
+<catgry>
+<catValu>3</catValu>
+<labl level="category">Can't say</labl>
+<catStat>61</catStat>
+</catgry>
+</var>
+<var ID="Q5" dcml="0" intrvl="discrete" name="Q5" files="FSD3318_file_1">
+<labl level="variable">[q5] Considering the present state of the world, do you think that over the next five years Finns and Finland will live in a more secure or insecure world?</labl>
+<qstn>
+<preQTxt/>
+<qstnLit>Considering the present state of the world, do you think that over the next five years Finns and Finland will live in a more secure or insecure world?</qstnLit>
+<postQTxt/>
+<ivuInstr/>
+</qstn>
+<valrng>
+<range min="1" max="4"/>
+</valrng>
+<sumStat type="vald">1034</sumStat>
+<sumStat type="min">1</sumStat>
+<sumStat type="max">4</sumStat>
+<sumStat type="mean">2.21</sumStat>
+<sumStat type="stdev">.753</sumStat>
+<catgry>
+<catValu>1</catValu>
+<labl level="category">In a more secure world</labl>
+<catStat>174</catStat>
+</catgry>
+<catgry>
+<catValu>2</catValu>
+<labl level="category">In a less secure world</labl>
+<catStat>505</catStat>
+</catgry>
+<catgry>
+<catValu>3</catValu>
+<labl level="category">There will be no change</labl>
+<catStat>321</catStat>
+</catgry>
+<catgry>
+<catValu>4</catValu>
+<labl level="category">Can't say</labl>
+<catStat>34</catStat>
+</catgry>
+</var>
