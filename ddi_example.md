@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Data Documentation Initiative <br> Metadata Example
+title: Data Documentation Initiative Metadata Example
 description: " "
+exclude: true
 ---
 
 Summary Information
